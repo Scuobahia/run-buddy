@@ -85,12 +85,14 @@ section {
 /* Hero Style End */
 /* div hero-form start */
 .hero-form { 
-    width:  40%;
+    width: 40%;
     margin: 3.5%;
     border: 3px solid #024e76;
     background-color: #fce138;
     padding: 20px;
      color: #024e76;
+     width: 40%;
+
 
 }
 /* div hero-form end */
